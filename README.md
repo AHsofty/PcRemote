@@ -1,4 +1,4 @@
-# PcRemote
+# Pc Remote
 An app for android to controll your pc.
 
 My app isn't completely finished yet. There are still a few things I need to change/add.
